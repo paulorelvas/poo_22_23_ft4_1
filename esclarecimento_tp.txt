@@ -1,0 +1,16 @@
+#-------- Meta 1 :: esclarecimentos TP --------
+1 - Deve estar definido o conceito genérico de animal e de alimento
+        "estrutura" - abordagem para a definição do conceito deve ser definida pelo aluno
+
+2 - Implementar usando a biblioteca ncurses?
+        Nesta meta ainda não é necessário - a sua utilização nesta meta fica ao critério do aluno
+
+3 - Versão do c++ - podem usar a versão que temos usado na aula, no entanto é recomendado que usem a versão 17 ou 20
+        (embora não haja alteraçãoes significativas ou que coloquem em causa os objetivos do trabalho - relativamente à versão usada em aula/recomendadas)
+
+4 - Comandos - validação
+        a escolha da forma de validação fica ao critério do aluno - dispõem de várias alternativas - devem escolher a uma, por exemplo, aquela com a qual
+        estejam mais familiarizados
+
+
+
